@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "farewell",
+  "base_artist": "kurayamisaka",
+  "createdAt": "2026-03-05T13:18:41.993494Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Farewell",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/01_Farewell_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Farewell / Goodbye",
+      "artist": "M83",
+      "has_synced": true,
+      "path": "select/02_Farewell___Goodbye_M83.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One Day Goodbye Will Be Farewell",
+      "artist": "Morrissey",
+      "has_synced": true,
+      "path": "select/03_One_Day_Goodbye_Will_Be_Farewell_Morrissey.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "H. K. Farewell - Hidden Track",
+      "artist": "Placebo",
+      "has_synced": false,
+      "path": "select/04_H._K._Farewell_-_Hidden_Track_Placebo.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Last Farewell",
+      "artist": "Kula Shaker",
+      "has_synced": true,
+      "path": "select/05_Last_Farewell_Kula_Shaker.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Last Farewell (Album Version)",
+      "artist": "Kula Shaker",
+      "has_synced": true,
+      "path": "select/06_Last_Farewell_(Album_Version)_Kula_Shaker.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Farewell",
+      "artist": "Gamma Ray",
+      "has_synced": true,
+      "path": "select/07_Farewell_Gamma_Ray.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Farewell",
+      "artist": "Rod Stewart",
+      "has_synced": true,
+      "path": "select/08_Farewell_Rod_Stewart.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Farewell My Hero",
+      "artist": "Ancient Bards",
+      "has_synced": true,
+      "path": "select/09_Farewell_My_Hero_Ancient_Bards.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Farewell",
+      "artist": "UNKLE",
+      "has_synced": false,
+      "path": "select/10_Farewell_UNKLE.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Farewell American Primitive",
+      "artist": "Ariel Pink's Haunted Graffiti",
+      "has_synced": true,
+      "path": "select/11_Farewell_American_Primitive_Ariel_Pink's_Haunted_Graffiti.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Farewell",
+      "artist": "Boris",
+      "has_synced": false,
+      "path": "select/12_Farewell_Boris.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Farewell Ride",
+      "artist": "Beck",
+      "has_synced": true,
+      "path": "select/13_Farewell_Ride_Beck.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Farewell Ride (Subtle Remix)",
+      "artist": "Beck",
+      "has_synced": true,
+      "path": "select/14_Farewell_Ride_(Subtle_Remix)_Beck.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Farewell Spaceman",
+      "artist": "Blockhead",
+      "has_synced": true,
+      "path": "select/15_Farewell_Spaceman_Blockhead.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Farewell \u0000 Goodbye",
+      "artist": "M83",
+      "has_synced": true,
+      "path": "select/16_Farewell_\u0000_Goodbye_M83.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "A Fond Farewell",
+      "artist": "Piano Magic",
+      "has_synced": false,
+      "path": "select/17_A_Fond_Farewell_Piano_Magic.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Farewell to All These Rotten Teeth",
+      "artist": "Carissa's Wierd",
+      "has_synced": true,
+      "path": "select/18_Farewell_to_All_These_Rotten_Teeth_Carissa's_Wierd.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "farewell",
+      "artist": "kurayamisaka",
+      "has_synced": false,
+      "path": "select/pl_01_farewell_kurayamisaka.txt"
+    }
+  ]
+}
